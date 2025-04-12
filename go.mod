@@ -1,4 +1,4 @@
-module go-project
+module go-app
 
 go 1.20
 

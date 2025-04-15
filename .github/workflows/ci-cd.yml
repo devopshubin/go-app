@@ -58,5 +58,5 @@ jobs:
 
       - name: Build and push Docker image
         run: |
-          docker build -t navaneetha084/go-app:latest .
-          docker push navaneetha084/go-app:latest
+          docker build -t devopshub/go-app:latest .
+          docker push devopshub/go-app:latest
